@@ -8,7 +8,7 @@
 
 - LinkedIn: [MiheerShah](https://www.linkedin.com/in/miheershah13/)
 
-- Instagram: [MiheerShah](https://www.x.com/MiheerShah9/)
+- X: [MiheerShah](https://www.x.com/MiheerShah9/)
 
 #### Project Result Screenshots:
 

@@ -1,7 +1,7 @@
 {
-  "name": "luxehaven",
+  "name": "Luxlife",
   "version": "1.0.0",
-  "description": "Your Exclusive Destination for Luxury Shopping.",
+  "description": "Your Exclusive Place for Luxury Shopping.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -9,7 +9,7 @@
     "frontend": "npm run dev --prefix frontend",
     "dev": "concurrently \"npm run frontend\" \"npm run backend"
   },
-  "author": "Syed Jabeed",
+  "author": "Miheer Shah",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
